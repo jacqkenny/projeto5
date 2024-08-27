@@ -1,4 +1,4 @@
-import { Trash, import { BotoesDeAcao, Card, Grid, ImagemBotao, LinkBotao } from './styles'
+import { BotoesDeAcao, Card, Grid, ImagemBotao, LinkBotao } from './styles'
 import { Campo, TituloCampo } from '../../styles'
 import Contato from '../../models/Contato'
 import { useDispatch } from 'react-redux'
