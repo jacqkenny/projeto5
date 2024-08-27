@@ -1,12 +1,10 @@
-import Header from '../../components/Header'
-import NavigationBar from '../../components/NavigationBar'
-import ContactsList from '../../containers/ContactsList'
+import BarraLateral from '../../containers/BarraLateral'
+import ListaDeContatos from '../../containers/ListaDeContatos'
 
 const Home = () => (
   <>
-    <Header />
-    <NavigationBar />
-    <ContactsList />
+    <BarraLateral mostraBotaoAdd />
+    <ListaDeContatos />
   </>
 )
 
