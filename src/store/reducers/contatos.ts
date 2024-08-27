@@ -9,27 +9,27 @@ const initialState: ContatosState = {
   itens: [
     {
       id: 1,
-      nome: 'Alissandra Oliveira',
-      email: 'alissandra@mail.com',
-      telefone: '(61) 11111-1111'
+      nome: 'Jacqueline Kenny',
+      email: 'jacq.kenny@mail.com',
+      telefone: '(53) 99999-5555'
     },
     {
       id: 2,
-      nome: 'Bruna Almeida',
-      email: 'bruna@mail.com',
-      telefone: '(61) 11111-2222'
+      nome: 'João Carlos',
+      email: 'jc@mail.com',
+      telefone: '(53) 99999-6666'
     },
     {
       id: 3,
-      nome: 'Paulo Silva',
-      email: 'paulo@mail.com',
-      telefone: '(61) 11111-3333'
+      nome: 'Maria Carla',
+      email: 'mc@mail.com',
+      telefone: '(53) 99999-7777'
     },
     {
       id: 4,
-      nome: 'Ana Maria',
-      email: 'ana@mail.com',
-      telefone: '(61) 11111-4444'
+      nome: 'Mariana Cunha',
+      email: 'mari@mail.com',
+      telefone: '(53) 99999-8888'
     }
   ]
 }
